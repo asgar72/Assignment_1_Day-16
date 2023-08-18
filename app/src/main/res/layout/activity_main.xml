@@ -89,7 +89,6 @@
             android:drawablePadding="10dp"
             android:ems="10"
             android:hint="Unique ID"
-            android:inputType="textPassword"
             android:padding="10dp"
             android:textColor="@color/black"
             android:textSize="20sp" />
