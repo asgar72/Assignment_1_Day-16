@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "643965792278",
+    "project_id": "day16database-51077",
+    "storage_bucket": "day16database-51077.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643965792278:android:0fb7f3d55865c0536cc537",
+        "android_client_info": {
+          "package_name": "com.asgar72.database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643965792278-8vi3mdi6vilol94ai5e8bibu52bg6h9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUZRbd4tkG0luYf1oWNNQ5wYL_LcbK7uo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643965792278-8vi3mdi6vilol94ai5e8bibu52bg6h9j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
