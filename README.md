@@ -1,5 +1,3 @@
-
-https://github.com/asgar72/Assignment_2_Day-16/assets/85785487/4f8f82eb-3e2f-456a-8242-cd2523f3da02
 # Assignment_2_Day-16
 data push and pull using firebase
 
